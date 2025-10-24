@@ -1,0 +1,5 @@
+make sure you install this before using the project 
+
+pip install numpy
+pip install opencv-python
+pip install mediapipe
